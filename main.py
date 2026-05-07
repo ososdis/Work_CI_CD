@@ -1,14 +1,7 @@
-# Juste un script pour montrer que vous avez réussi ce petit test
-# sur la contribution dans un dépôt Github
-#
+nom = "Lutumba"
+prenom = "Mervedie" 
+promo = "LpXp_B" 
+print(f"Bonjour ! Je réponds au nom de{nom} {prenom}, promotion {promo}")
 
-# Retirer les commentaires ci-dessous et complétez ce script
-
-# nom = ???
-# prenom = ???
-# promo = ???
-#
-
-# print(f"Bonjour ! Je reponds au nom de {nom} {prenom}, promotion {promo}")
 
 print("Congrats")
